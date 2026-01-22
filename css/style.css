@@ -3,3 +3,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width: 512px;
+    border: 1px dashed black;
+}
+
+#site_header {
+    width: 512px;
+    padding: 1rem;
+    border-bottom: 2px solid black;
+}
+
+.blog_article {
+    max-width: 470px;
+    height: 145px;
+    padding: 15px;
+    border: 2px solid;
+    margin: 20px;;
+}
+
+#site_footer {
+    border-top: 2px solid black;
+    padding:1rem;
+    height: 70px;
+}
